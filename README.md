@@ -6,6 +6,7 @@
 
 - 推荐从 [微软商店](https://www.microsoft.com/store/apps/9PCCZSWG973K) 获得软件。
 - 从项目 [Release](https://github.com/Horiztar/Cylheim-Windows/releases) 中下载。
+- [代码库](https://github.com/Horiztar/Cylheim)
 
 ## 使用文档
 
